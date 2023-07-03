@@ -1,18 +1,48 @@
 {
+  "英语": {
+    "createdAt": "2023-07-03T06:21:51.636Z",
+    "color": "#dedfed",
+    "desc": "英语",
+    "isInner": false
+  },
+  "法语": {
+    "createdAt": "2023-07-03T06:21:39.644Z",
+    "color": "#acabf2",
+    "desc": "法语",
+    "isInner": false
+  },
+  "俄语": {
+    "createdAt": "2023-07-03T06:21:34.819Z",
+    "color": "#7e7cf8",
+    "desc": "俄语",
+    "isInner": false
+  },
+  "西语": {
+    "createdAt": "2023-07-03T06:21:28.736Z",
+    "color": "#504ef4",
+    "desc": "西语",
+    "isInner": false
+  },
+  "阿语": {
+    "createdAt": "2023-07-03T06:21:15.458Z",
+    "color": "#2010f9",
+    "desc": "阿语",
+    "isInner": false
+  },
   "中文": {
-    "color": "#2db7f5",
+    "color": "#e91616",
     "createdAt": "2018-01-25T07:56:31.372Z",
     "desc": "系统内置不可删除",
     "isInner": true
   },
   "英文": {
-    "color": "#f50",
+    "color": "#041e86",
     "createdAt": "2018-01-25T07:56:31.372Z",
     "desc": "系统内置不可删除",
     "isInner": true
   },
   "Github": {
-    "color": "#108ee9",
+    "color": "#01064b",
     "createdAt": "2018-01-25T07:56:31.372Z",
     "desc": "系统内置不可删除",
     "isInner": true
